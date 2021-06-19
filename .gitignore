@@ -37,3 +37,6 @@ cv_s3dis_models/
 test/test_data
 torch_points3d/applications/weights/*
 .python-version
+
+/notebooks/data
+/notebooks/tensorboard
